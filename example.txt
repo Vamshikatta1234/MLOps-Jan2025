@@ -1,1 +1,1 @@
-This is a completely new content in the X-1 branch.
+conflict resolved
