@@ -1,1 +1,1 @@
-This is an example file.
+This is an updated example file in the X+1 branch.
